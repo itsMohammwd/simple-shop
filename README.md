@@ -126,5 +126,4 @@ python bot.py
 This project was created for learning Python, databases, APIs, and Telegram bot development. It is designed for beginners who want to understand how these technologies work together.
 
 ## 👨‍💻 Author
-
-Created as a beginner Python learning project.
+ID TELE : @imamwd
